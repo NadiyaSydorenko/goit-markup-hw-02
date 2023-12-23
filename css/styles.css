@@ -107,8 +107,10 @@ letter-spacing: 0.02em;
     letter-spacing: 0.72px;
     text-transform: capitalize;
 }
-.team-card {
+.card-team {
     background-color: #FFFFFF;
+    width: 264px;
+    height: 380px;
 }
 .text {
     color: #F4F4FD;
