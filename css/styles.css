@@ -109,8 +109,6 @@ letter-spacing: 0.02em;
 }
 .card-team {
     background-color: #FFFFFF;
-    width: 264px;
-    height: 380px;
 }
 .text {
     color: #F4F4FD;
@@ -118,6 +116,4 @@ letter-spacing: 0.02em;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.32px;
-    width: 264px;
-    height: 72px;
 }
